@@ -1,1 +1,16 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+i#!/bin/bash echo "ALX School"
+=======
 #!/bin/bash echo "ALX School is so cool!"
+>>>>>>> refs/remotes/origin/master
+=======
+#!/bin/bash echo "ALX School is so cool!"
+=======
+i#!/bin/bash echo "ALX School"
+>>>>>>> update_script
+>>>>>>> update_script
+=======
+#!/bin/bash echo "ALX School is so cool!"
+>>>>>>> 8a99777e5d3743c89ce03e088dce19e23b36863a
